@@ -1,6 +1,6 @@
 # facebook-registration
 
-This project is developed to test facebook registration page mainly using Selenium, TestNG and Java using page object model.
+This project is developed to test facebook registration page using page object model with Selenium, TestNG and Java.
 
 ### Prerequisites
 The below software is required to run the project.
